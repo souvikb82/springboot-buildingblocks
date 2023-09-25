@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootBuildingblocksApplication {
 
-	//Starting point of the spring boot appl
+	//Starting point of the spring boot app
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootBuildingblocksApplication.class, args);
 	}

@@ -1,0 +1,3 @@
+insert into usermgmt(ID, FIRST_NAME, ROLE, SSN, USER_NAME, EMAIL_ADDRESS, LAST_NAME) values(101,'Souvik', 'admin', 'ssn01', 'sb', 'sb@gmail.com', 'Bhattacharyya');
+insert into usermgmt(ID, FIRST_NAME, ROLE, SSN, USER_NAME, EMAIL_ADDRESS, LAST_NAME) values(102,'Mithun', 'admin', 'ssn02', 'mb', 'mb@gmail.com', 'Bhattacharyya');
+insert into usermgmt(ID, FIRST_NAME, ROLE, SSN, USER_NAME, EMAIL_ADDRESS, LAST_NAME) values(103,'Tukai', 'admin', 'ssn03', 'tb', 'tb@gmail.com', 'Bhattacharyya');

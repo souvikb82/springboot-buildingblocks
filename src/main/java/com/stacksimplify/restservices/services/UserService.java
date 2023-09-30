@@ -10,6 +10,7 @@ import org.springframework.web.server.ResponseStatusException;
 
 import com.stacksimplify.restservices.entities.User;
 import com.stacksimplify.restservices.exceptions.UserExistsException;
+import com.stacksimplify.restservices.exceptions.UserNameNotFoundException;
 import com.stacksimplify.restservices.exceptions.UserNotFoundException;
 import com.stacksimplify.restservices.repositories.UserRepository;
 
